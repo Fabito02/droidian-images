@@ -89,8 +89,8 @@ samsung_starqltechn:
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-starqltechn
-    - adaptation-starqltechn-configs
+    - adaptation-samsung-starqltechn
+    - adaptation-samsung-starqltechn-configs
     - droidian-sysfs-torch
     - linux-bootimage-4.9.337-samsung-starqltechn
     - linux-bootimage-samsung-starqltechn
@@ -108,8 +108,8 @@ samsung_starqltechn:
 #   use_internal_repository: false
 
 #   packages:
-#     - adaptation-droidian-starqltechn
-#     - adaptation-starqltechn-configs
+#     - adaptation-samsung-starqltechn
+#     - adaptation-samsung-starqltechn-configs
 #     - droidian-sysfs-torch
 #     - linux-bootimage-4.9.337-samsung-starqltechn
 #     - linux-bootimage-samsung-starqltechn
