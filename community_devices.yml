@@ -19,6 +19,8 @@ samsung_star2qltechn:
     - linux-headers-samsung-star2qltechn
     - linux-image-4.9.337-samsung-star2qltechn
     - linux-image-samsung-star2qltechn
+    - ssh
+    - hybris-usb
 
 # samsung_star2qltechn-cutie:
 #   type: image
@@ -58,6 +60,8 @@ samsung_crownqltechn:
     - linux-headers-samsung-crownqltechn
     - linux-image-4.9.337-samsung-crownqltechn
     - linux-image-samsung-crownqltechn
+    - ssh
+    - hybris-usb
 
 # samsung_crownqltechn-cutie:
 #   type: image
@@ -98,6 +102,8 @@ samsung_starqltechn:
     - linux-headers-samsung-starqltechn
     - linux-image-4.9.337-samsung-starqltechn
     - linux-image-samsung-starqltechn
+    - ssh
+    - hybris-usb
 
 # samsung_starqltechn-cutie:
 #   type: image
